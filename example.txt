@@ -6,3 +6,6 @@ this is python programming.
 
 I'm learning GitHub.
 I love Programming.
+
+It's me Rudi Nahawang.
+currently I am studying in 5th Semester in Nepal College of Information Technology.
